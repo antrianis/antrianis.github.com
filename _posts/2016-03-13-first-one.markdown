@@ -1,0 +1,6 @@
+---
+published: true
+title: First One!
+layout: post
+---
+It's empty.
